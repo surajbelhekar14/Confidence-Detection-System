@@ -1,0 +1,14 @@
+#Follow below steps 
+#1)First create virtual environmen "python -m venv project"
+#2)Then activate that virtual environmrnt "project\Scripts\activate"
+#3)open teminal in same directory as app.py and run a command "pip install -r requirements.txt"
+setuptools
+opencv-python
+fer
+openai-whisper
+pydub
+numpy
+language_tool_python
+Flask
+moviepy==1.0.3
+tensorflow
