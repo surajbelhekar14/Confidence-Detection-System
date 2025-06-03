@@ -1,0 +1,38 @@
+Shubham Jadhav
+
+**Basic Technical Interview Questions:**
+
+* Explain the difference between `==` and `===` in JavaScript.
+* What are the advantages and disadvantages of using MongoDB over MySQL?
+* Describe the process of creating a RESTful API using Node.js and Express.js.
+* How would you handle errors in a Node.js application?
+* What is the difference between GET and POST HTTP requests?
+* Explain your understanding of Object-Oriented Programming (OOP) principles.
+* How do you handle asynchronous operations in JavaScript?
+* Describe your experience with version control using Git.
+* What is SQL injection and how can it be prevented?
+* Explain your experience with React.js and its component lifecycle.
+
+
+**Advanced Technical Interview Questions:**
+
+* Design a database schema for an e-commerce application, considering scalability and performance.
+* How would you optimize a slow-running SQL query?
+* Explain your understanding of different indexing strategies in MongoDB.
+* Discuss different architectural patterns for building scalable web applications.
+* How would you implement user authentication and authorization in a Node.js application?
+* Describe your experience with testing frameworks for JavaScript (e.g., Jest, Mocha).
+* How would you handle concurrent requests in a Node.js application?
+* Explain your understanding of different caching mechanisms and their trade-offs.
+* Describe a situation where you had to debug a complex issue in a software project and how you solved it.
+* Design a system for recommending exercises based on user preferences and fitness levels.
+
+
+**HR Interview Questions:**
+
+*  Describe your experience leading the technical team at Compsa, DYPIMER.  What were some of your key accomplishments?
+* Your resume highlights participation in several hackathons. Can you describe a particularly challenging project and what you learned from it?
+* How would you describe your approach to learning new technologies?  Give an example.
+*  Based on your projects, what are your strengths and weaknesses as a software developer?
+*  Why are you interested in this particular role, and how does it align with your career goals?
+
